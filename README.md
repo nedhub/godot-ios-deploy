@@ -1,5 +1,7 @@
 # Godot iOS Deploy
 
+godot ios export test
+
 > Deploy to iOS for testing in one click from within Godot!
 
 ## NOTE
